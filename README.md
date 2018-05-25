@@ -1,0 +1,2 @@
+# TheLazyHase.github.io
+Blog?
