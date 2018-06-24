@@ -28,7 +28,7 @@ I played the Morghoul and Zaadesh lists detailed in preceding blog spots, and si
 * Immortals (max) [15]
 * Paingiver Beast Handlers (min) [5]
 
-I love Xerxis 1 a lot, and have used him in Master of war as a brick breaker for a long time. His MAT problem and the fact that infantry have come back hard mean I no longer can regulary fit him in a two list pairing. That Immortal version isn't polished yet, but is an answer to thoses problem, by using four MAT 9 quasi-warbeast to deal with infantry and jack alike.
+I love Xerxis 1 a lot, and have used him in Master of war as a brick breaker for a long time. His MAT problem and the fact that infantry have come back hard mean I no longer can regulary fit him in a two list pairing. That Immortal version isn't polished yet, but is an answer to thoses problem, by using four MAT 9 quasi-warbeast to deal with infantry and jack alike. Note that Xerxis hand out Pathfinder, which is big for the solos who often have trouble moving around.
 
 Before the tournament
 =====================
@@ -43,7 +43,7 @@ I don't remember the entire welsh team roster, but only a troll player looked li
 Zaadesh 2 vs Kolgrimma
 ----------------------
 
-Going into the match, I was super anxious. In France, Kolgrimma in storm of the north is one of the most feared list. I though the welsh player played the same list as my usual sparring partner, but I understood mid match that actually, he played neither the northkin stone nor fire eaters, making the match *much* easier than I thought. In addition to that, I was one of the "least" good player in the team, and I didn't want to make the team lose.
+Going into the match, I was super anxious. In France, Kolgrimma in storm of the north is one of the most feared list. I though the welsh player played the same list as my usual sparring partner, but I understood mid match that actually, he played neither the northkin stone nor fire eaters, making the match *much* easier than I thought. In addition to that, I was one of the "least" good player in the team, and I didn't want to make the team lose, adding to my anxiety.
 
 My opponent had two units of champions, and two units of bears that I needed to draw out of ambush as soon as possible. I ran the hydra in range of 2 champions, 2 more with Hunter mark (but I have Orin with 3" of the hydra), and within 13" of the border so that the bear could come in. It was a bait because, actually, they can't really hope to kill the hydra in one round, and she can kill the attacker back relatively easily. My opponent took the bait, ambushed both unit into the hydra, and did not put a cloud under the hydra to make her less deadly. That allowed me to feat for full effect, with the hydra killing both bear unit and two champions, healing to full in the process ; on the other side, two champions died to a rhinodon.
 
@@ -99,11 +99,13 @@ It's a bit of a no-match for him ; it's pretty hard to fight Morghoul without a 
 Sixth round - Zaadesh vs Vyros 2 (loss)
 ---------------------------------------
 
-My opponent did a BR : [insert link to Gyrshild return]
+My opponent did a BR : [Ghyrrshyld's Return](http://ghyrrshyldsreturn.blogspot.com/2018/05/game-199-vyros2-vs-zaadesh2.htm)
 
-I see Vyros 2, and two lists who have trouble killing armored stuff, including Kaelyssa. I think Zaadesh is my best bet ; his version of Vyros 2 (no Imperatus but two Manticore) is softer to Morghoul 2 than to Zaadesh, but I don't want to risk the awkward match up Kaelyssa - Morghoul. Xerxis feel to soft to the guns to be worth it.
+I see Vyros 2, and two lists who have trouble killing armored stuff, including Kaelyssa. I think Zaadesh is my best bet ; his version of Vyros 2 (no Imperatus but two Manticore) is softer to Morghoul 2 than to Zaadesh, but I don't want to risk the awkward match up Kaelyssa - Morghoul. Xerxis feel too soft to the guns to be worth it.
 
 I put the hydra on the right and the rest on the left. The hydra, as usual, take over her flank without much problems, but a mix of very good dice from him and some error from me allow him to win by scenario. It's one of thoses match up where threat range can be extremely important, as highlighted by how the hydra (threat 12") fared much better than the titans (threat 10" or 11"). But there were also some errors I shouldn't do in a match up I have done half a dozen time, even in Vyros 2 is much less popular now. (partly because people like me have very strong anti-Vyros list, granted).
+
+The turning point was both a risky countercharge (it allowed my opponent to attack my gladiator without a charge, making it more likely to die, which he did), and forgetting that you need to be within 1" of a house to get cover. But for the most part, the Hydra took over her flank because my opponent could not get the alpha on her nor absorbing her alpha.
 
 Seventh round - Morghoul 2 vs Zaal 2 (loss)
 -------------------------------------------
@@ -116,3 +118,5 @@ Conclusion
 ==========
 
 The tournament is good and fun but my result bad, which annoyed me a lot at the end of the tournament. In retrospect, I still think my pairing is good and one of the strongest possible in Skorne, but it's not particulary easy to play either, and I need to be a bit less anxious about it. Anyway, kudos to the organizers, since the tournament was smooth, the tables had a decent amount of 3D decors, and the venue was big enough. The food wasn't particulary good, but I guess it had to the english experience to see why exactly people mock english cooking :p.
+
+While I only played Xerxis once, I think the base list (~40 points of immortal + 40 points of beast) have a lot of promises. 60 points of immortal is good for the Zaals, but it's a bit too many fragile single wounders for most casters ; and once you think of the Ancestral Guardians as super cheap warbeasts that don't have fury management problem, everything work better. Their MAT 8/9 really make them amazing infantry thresher, even more so when you can buff their damage.

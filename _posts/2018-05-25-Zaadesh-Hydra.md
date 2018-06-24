@@ -11,7 +11,6 @@ Stock Zaadesh list
 
 My first list - that Connetable PA, the former french WTC captain, found more or less at the same time as me - was :
 
-Skorne Army - 75 / 75 points
 [Theme] Imperial Warhost
 
 * (Zaadesh 2) Lord Tyrant Zaadesh [+28]
@@ -74,7 +73,6 @@ Matchup & comparison
 
 My current Zaadesh list look like that :
 
-Skorne Army - 74 / 75 points
 [Theme] Imperial Warhost
 
 * (Zaadesh 2) Lord Tyrant Zaadesh [+28]
