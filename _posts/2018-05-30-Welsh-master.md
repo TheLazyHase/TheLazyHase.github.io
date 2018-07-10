@@ -30,6 +30,28 @@ I played the Morghoul and Zaadesh lists detailed in preceding blog spots, and si
 
 I love Xerxis 1 a lot, and have used him in Master of war as a brick breaker for a long time. His MAT problem and the fact that infantry have come back hard mean I no longer can regulary fit him in a two list pairing. That Immortal version isn't polished yet, but is an answer to thoses problem, by using four MAT 9 quasi-warbeast to deal with infantry and jack alike. Note that Xerxis hand out Pathfinder, which is big for the solos who often have trouble moving around.
 
+The specific Morghoul 2 list I played was :
+
+[Theme] Masters of War
+
+* Lord Assassin Morghoul [+29]
+ - Archidon [10]
+ - Archidon [10]
+ - Titan Gladiator [15]
+ - Aptimus Marketh [5]
+* Extoller Soulward [3]
+* Extoller Soulward [3]
+* Cataphract Incindiarii (min) [11]
+* Croak Raiders (min) [10]
+* Paingiver Beast Handlers (min) [5]
+* Praetorian Ferox (min) [12]
+* Praetorian Ferox (max) [20]
+* Tyrant Commander & Standard Bearer [0(6)]
+* Tyrant Commander & Standard Bearer [0(6)]
+
+In retrospect, I am not sure why there is a min unit of cat instead of Tyrant Radheim. It still is a reasonable list. The highlight was putting on fire almost a full unit of immortals ... Before killing one with a direct hit, which lead to vengeance. Still, Continuous fire is a good way to kill any kind of infantry.
+
+
 Before the tournament
 =====================
 
