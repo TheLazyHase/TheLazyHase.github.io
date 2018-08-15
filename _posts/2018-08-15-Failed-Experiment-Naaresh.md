@@ -1,4 +1,3 @@
-
 ---
 layout: post
 comments: true
@@ -40,20 +39,19 @@ Anatomy of a bad spell list
 
 Unlike a lot of people, I don't terribly mind having one bad spell or two, since it's rather the norm, so Bleed don't tick me off. He have three spells, on paper all interesting : Cyclone, Blur, and Lamentations. In practice, only Cyclone really mattered
 
-# Reactive vs proactive
+### Reactive vs proactive
 
 One of the reasons for that is that Blur and Lamentation are reactive spell. In short, proactive abilities are everything that is here to support your plan (Scything Touch, Carnage, Rush, etc ...), while reactive abilities are here to throw a wrench to your opponent plan or prevent your one from being countered (Jumpstart, Arcane Vortex, Banishing Ward, ...). While being reactive isn't bad per se, it mean it's only useful a fraction of the time (since your opponent need to actively use the thing you want to counter), and having too much reactive stuff can easily be a problem. Here, we have more than half of his spell list dedicated not only to counter stuff, which in retrospective should have alarmed me.
 
-# Lamentation, or the problem with magic counter
+### Lamentation, or the problem with magic counter
 
 Lamentation is in the grand family of ability that punish warcasters from advancing. In theory, everyone use spells all the time, and mostly everyone have upkeeps. So why isn't that spell a good generic counter ? Because there is too many way to weasel out of it. It check the caster, and not the point of origin, so channeling is a counter, and most actual spellslinger can channel, as it's almost mandatory to use offensive spell without dying. Double of free is still free, so anything that pay for upkeep mean Lamentation isn't gonna do much on it. If the spell create an aura, you can even cast it, then enter the Lamentation zone without problem. It also only work on fury/focus user, meaning it do nothing to most wizard solos.
 
-I don't mean that Lamentation _always_ suck, just that on half or more match up, it straight up do nothing. It's particulary brutal against Lightning Strike users, and Horde in general isn't a super big fan of being Lamented. But it
+I don't mean that Lamentation _always_ suck, just that on half or more match up, it straight up do nothing. It's particulary brutal against Lightning Strike users, and Horde in general isn't a super big fan of being Lamented. But it's a lot more niche than one may believe, and it's entirely possible to have a string of five games where it's alway useless.
 
-![I am pretty sure that Ravyn have bigger problems than Lamentation right now](/images/NaareshVsRavyn.png)
-There is also another teeny weeny problem : given that Naaresh threaten assassination at 17" easily, people already have a very strong incentive to not put their caster within 12" of him. It's tempting fate.
+<img src="/images/NaareshVsRavyn.png" alt="I am pretty sure that Ravyn have bigger problems than Lamentation right now" style="float: inline-end; margin: 5px">There is also another teeny weeny problem : given that Naaresh threaten assassination at 17" easily, people already have a very strong incentive to not put their caster within 12" of him. It's tempting fate. On the illustration, the empty base is where Naaresh can Cyclone, meaning that Ravyn is pretty much in charge range despite the obstacle
 
-# Blur, too easy to ignore
+### Blur, too easy to ignore
 
 Blur, meanwhile, suffer from how good accuracy fixing is at a range. That may seem strange since average RAT is a solid point lower than MAT ; but while every list I got had shooting, they also had :
 * purification
@@ -62,6 +60,7 @@ Blur, meanwhile, suffer from how good accuracy fixing is at a range. That may se
 * blessed
 * Ravyn and Issyria's feat
 * Blinding Light
+
 None ever had a problem to hit a swordmen under blur and a Krea. And even thoses who were in cover actually died rather often, either because electroleap are autohitting anyway, or because they stacked several rules together. That's another example of a reactive ability who is too narrow ; while I can get by the idea that stacking Blur and a krea make me safe from, say, Demo Corps bombardier shooting, the amount of list who have shooting who actually care about defense on single wound model isn't terribly high. Which make the spell a lot worse than it seem.
 
 Naaresh, impotent martial master
